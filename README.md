@@ -33,7 +33,7 @@ python3 rearaware.py
 1. Start RearAware first
 2. Open Google Meet, Zoom, or Teams
 3. Go to camera settings and select **OBS Virtual Camera**
-4. That's it — your cat's dignity is now protected
+4. That's it :) your cat's dignity is now protected
 
 Press `Ctrl+C` in Terminal to stop.
 
@@ -41,4 +41,7 @@ Press `Ctrl+C` in Terminal to stop.
 - Works best with good lighting
 - The model was trained on cats only, not dogs, humans, or anything else
 - Sound effects are random. You're welcome.
+
+![RearAware demo](assets/demo.gif)
+
 
