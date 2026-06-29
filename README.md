@@ -42,6 +42,6 @@ Press `Ctrl+C` in Terminal to stop.
 - The model was trained on cats only, not dogs, humans, or anything else
 - Sound effects are random. You're welcome.
 
-![RearAware demo](assets/demo.gif)
+![RearAware demo](./assets/demo.gif)
 
 
