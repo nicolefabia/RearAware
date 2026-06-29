@@ -8,7 +8,7 @@ Built for Google Meet, Zoom, and Microsoft Teams.
 ## What you'll need
 - A Mac
 - Python 3
-- OBS Studio (download from obsproject.com — you don't need to open it, just install it)
+- OBS Studio (Download from obsproject.com and install it. No need to run it.)
 - A cat with no shame
 
 ## Installation
