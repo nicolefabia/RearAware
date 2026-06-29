@@ -5,6 +5,8 @@ RearAware is a real time AI webcam filter that detects and censors cat butts dur
 
 Built for Google Meet, Zoom, and Microsoft Teams.
 
+![RearAware demo](./assets/demo.gif)
+
 ## What you'll need
 - A Mac
 - Python 3
